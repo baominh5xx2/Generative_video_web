@@ -1,0 +1,1 @@
+# docker run --gpus all -it --rm -v $(pwd):/workspace my-cuda-python-app
